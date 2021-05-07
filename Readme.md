@@ -105,5 +105,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Credits
 
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
+ - Thanks To Dan For His Awsome [Libary](https://github.com/gujhan/Adv-Auto-Filter-Bot-V2)
+ - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://t.me/Tentkotta_Tamil_request)
