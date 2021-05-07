@@ -1,7 +1,7 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://t.me/Tentkotta_Tamil_request">
     <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://t.me/Tentkotta_Tamil_request) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
