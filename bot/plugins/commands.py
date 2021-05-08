@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Developers', url="https://t.me/Tentkotta_Tamil"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Developers', url="https://t.me/Tentkotta_Tamil"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Developers', url="https://t.me/Tentkotta_Tamil"
                                 )
                         ]
                     ]
