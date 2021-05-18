@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @Tentkotta_Tamil
+# (c) @Tamil_Tentkotta
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tentkotta_Tamil"
+                                    'Developers', url="https://t.me/Tamil_Tentkotta"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tentkotta_Tamil"
+                                    'Developers', url="https://t.me/Tamil_Tentkotta"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/Tentkotta_Tamil"
+                                    'Developers', url="https://t.me/Tamil_Tentkotta"
                                 )
                         ]
                     ]
