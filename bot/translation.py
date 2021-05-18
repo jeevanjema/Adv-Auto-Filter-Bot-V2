@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @Tentkotta_Tamil
+# (c) @Tamil_Tentkotta
 
 class Translation(object):
     
@@ -10,7 +10,7 @@ class Translation(object):
 I have 4m movies🔥🔥😝
 
 For More movies first update & Upload..
-@Tentkotta_Tamil
+@Tamil_Tentkottq
 </i>"""    
     
     HELP_TEXT = """
