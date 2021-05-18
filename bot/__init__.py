@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @Tentkotta_Tamil
+# (c) @Tamil_Tentkotta
 
 import os
 import logging
