@@ -10,7 +10,7 @@ class Translation(object):
 I have 4m movies🔥🔥😝
 
 For More movies first update & Upload..
-@Tamil_Tentkottq
+@Tamil_Tentkotta
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More movies first update & Upload..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Tentkotta_Tamil
+@Tamil_Tentkotta
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
